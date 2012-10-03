@@ -6,4 +6,4 @@ require '/maverick/bulk/ruby/sources/mios/jcc.rb'
 include Jcc
 #puts RUBY_DESCRIPTION
 
-puts "Product"
+puts "Product.rb"
