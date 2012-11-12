@@ -1,13 +1,12 @@
 clase-de-github
 ===============
 
-[Clase de Github en la rama mejorandola](http://es.wikipedia.org/wiki/Markdown)
+[Clase de Github en la rama mejorandola](http://www.youtube.com/watch?v=udughzlN5M4)
 ===============
 
 Este es un ejemplo de Github para la comunidad de #mejorandola
 
 ```
-cd git 
 cd leonidas/
 
 git clone git@github.com:jcald/curso-responsive-design.git
@@ -40,14 +39,10 @@ git init
 touch README2
 git add README2
 git status
-git status
 git remote add origin git@github.com:jcald/clase-de-github.git
 git pull origin master
 
-git push origin master
 
-
-git status
 vi README.md
 ```
 
