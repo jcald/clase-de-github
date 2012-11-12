@@ -1,6 +1,3 @@
-clase-de-github
-===============
-
 [Clase de Github en la rama mejorandola](http://www.youtube.com/watch?v=udughzlN5M4)
 ===============
 
@@ -39,7 +36,7 @@ git init
 touch README2
 git add README2
 git status
-git remote add origin git@github.com:jcald/clase-de-github.git
+git remote add origin git@github.com:yyyyy/clase-de-github.git
 git pull origin master
 
 
