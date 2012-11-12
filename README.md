@@ -38,9 +38,6 @@ git add README2
 git status
 git remote add origin git@github.com:yyyyy/clase-de-github.git
 git pull origin master
-
-
-vi README.md
 ```
 
 [Markdown Wiki](http://es.wikipedia.org/wiki/Markdown)
